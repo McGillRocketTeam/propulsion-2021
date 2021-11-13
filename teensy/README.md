@@ -23,6 +23,7 @@ To do that, follow these steps. (Note that the code will build correctly even wi
 `-D generate_vscode_folder=1`
 
 This is a simple macro definition. 
+
 2. If this line is already present, simply change the value it is equal to, for example:
 
 `-D generate_vscode_folder=0`
